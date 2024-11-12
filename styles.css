@@ -13,7 +13,6 @@ body {
   color: #686868;
 }
 
-
 h2,
 h3,
 h4,
@@ -79,6 +78,7 @@ p {
 
 .service-box h3 {
   font-size: 1.5rem;
+  margin-bottom: 20px;
 }
 
 /* Contact Form */
